@@ -4,7 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
-#**Assignment**
+
 ***
 
 ## Loading and preprocessing the data
